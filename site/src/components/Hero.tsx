@@ -117,7 +117,7 @@ export default function Hero() {
           </a>
           <a
             href={CONTATO.instagram}
-            rel="#contato"
+            target="_blank"
             className="border border-bone/25 px-9 py-4 font-head text-xs font-bold uppercase tracking-[0.25em] text-bone transition-all duration-300 hover:border-blood hover:text-blood"
           >
             Siga no Instagram

@@ -1,7 +1,4 @@
-/**
- * Ícones de marca (o pacote lucide-react removeu ícones de redes sociais).
- * Mesmo estilo visual do Lucide: stroke 2, cantos arredondados.
- */
+
 export function InstagramIcon({ className = "" }: { className?: string }) {
   return (
     <svg

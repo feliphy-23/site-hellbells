@@ -4,11 +4,7 @@ import { InstagramIcon } from "./icons";
 import { bandas } from "../data/bandas";
 import { CONTATO } from "../data/evento";
 
-// ============================================================================
-//   LINE-UP — esta secao e alimentada pelo arquivo  src/data/bandas.ts
-//   (adicione, remova ou edite bandas por la; as fotos ficam em
-//    public/images/bandas/)
-// ============================================================================
+
 
 const easing = [0.22, 1, 0.36, 1] as const;
 

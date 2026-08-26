@@ -12,7 +12,7 @@ interface Particle {
 }
 
 /**
- * Brasas subindo — canvas leve, com "lighter blend" para o brilho de fogo.
+ * Brasas subindo — efeito de brilho de fogo.
  */
 export default function Embers({
   density = 55,

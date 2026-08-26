@@ -10,10 +10,7 @@ const ITENS = [
   "SUA BANDA OU SUA MARCA PODE APOIAR ESSA CAUSA",
 ];
 
-/**
- * Letreiro em faixa (estilo cartaz de festival).
- * reverse=true inverte a direção e o tema de cores.
- */
+
 export default function Marquee({ reverse = false }: { reverse?: boolean }) {
   const faixa = (
     <div

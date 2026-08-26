@@ -1,5 +1,4 @@
 
-// --- CONTATOS OFICIAIS (usados na secao Contato, no rodape e nos botoes) ----
 export const CONTATO = {
   instagram: "https://www.instagram.com/hellbellsrockbeneficente/",
   instagramUser: "@hellbellsrockbeneficente",

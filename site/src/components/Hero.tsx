@@ -113,6 +113,14 @@ export default function Hero() {
           >
             Ver line-up
           </a>
+          <a
+            href="#INSTAGRAM"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="border border-bone/25 px-9 py-4 font-head text-xs font-bold uppercase tracking-[0.25em] text-bone transition-all duration-300 hover:border-blood hover:text-blood"
+          >
+            Seguir no Instagram
+          </a>
         </motion.div>
 
         {/* Fichas de informação */}

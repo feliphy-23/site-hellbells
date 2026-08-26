@@ -25,12 +25,12 @@ const FORMAS = [
     texto:
       "Roupas, calçados, cobertores e agasalhos em bom estado. O que não serve mais pra você. aquece e veste quem precisa.",
   },
-  {
-    icon: Package,
-    titulo: "Produtos para doação",
-    texto:
-      "Itens de higiene, limpeza e qualquer produto, novo ou usado em bom estado, que possa seguir direto para a doação.",
-  },
+  //{
+  //  icon: Package,
+  //  titulo: "Produtos para doação",
+  //  texto:
+  //    "Itens de higiene, limpeza e qualquer produto, novo ou usado em bom estado, que possa seguir direto para a doação.",
+  //},
   {
     icon: Gift,
     titulo: "Brindes para sorteio",

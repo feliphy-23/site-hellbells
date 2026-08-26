@@ -3,6 +3,8 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { Calendar, ChevronDown, Flame, MapPin } from "lucide-react";
 import Embers from "./Embers";
 import { PROXIMO_EVENTO } from "../data/evento";
+import { CONTATO } from "../data/evento";
+
 
 const easing = [0.22, 1, 0.36, 1] as const;
 
@@ -114,12 +116,11 @@ export default function Hero() {
             Ver line-up
           </a>
           <a
-            href="#INSTAGRAM"
-            target="_blank"
-            rel="noopener noreferrer"
+            href={CONTATO.instagram}
+            rel="#contato"
             className="border border-bone/25 px-9 py-4 font-head text-xs font-bold uppercase tracking-[0.25em] text-bone transition-all duration-300 hover:border-blood hover:text-blood"
           >
-            Seguir no Instagram
+            Siga no Instagram
           </a>
         </motion.div>
 

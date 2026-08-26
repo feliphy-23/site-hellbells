@@ -39,8 +39,7 @@ export default function Bandas() {
           </h2>
           <p className="mt-6 max-w-xl text-sm leading-relaxed text-ash md:text-base">
             As bandas que doam seu som e sua energia pra fazer a noite
-            acontecer. Siga cada uma no Instagram — o rock da Baixada se faz
-            junto com quem toca e quem apoia.
+            acontecer. Siga cada uma no Instagram. Isso é um ordem!!!
           </p>
         </motion.div>
 

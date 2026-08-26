@@ -13,7 +13,7 @@ export default function Footer() {
           {/* Marca */}
           <div className="flex items-center gap-4">
             <img
-              src="/images/logo-hellbells.png"
+              src="./images/logo-hellbells.png"
               alt="Hell Bells"
               className="h-14 w-14 rounded-full object-cover ring-1 ring-blood/50"
             />

@@ -34,7 +34,7 @@ export default function Navbar() {
         <nav className="mx-auto flex h-20 max-w-7xl items-center justify-between px-5 md:px-8">
           <a href="#topo" className="group flex items-center gap-3">
             <img
-              src="/images/logo-hellbells.png"
+              src="./images/logo-hellbells.png"
               alt="Hell Bells — Rock Beneficente"
               className="h-11 w-11 rounded-full object-cover ring-1 ring-blood/50 transition-transform duration-500 group-hover:rotate-6"
             />

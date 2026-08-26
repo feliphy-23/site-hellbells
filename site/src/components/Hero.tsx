@@ -49,7 +49,7 @@ export default function Hero() {
         >
           <div className="absolute inset-0 scale-150 rounded-full bg-blood/35 blur-3xl" />
           <img
-            src="/images/logo-hellbells.png"
+            src="./images/logo-hellbells.png"
             alt="Emblema Hell Bells"
             className="animate-floaty relative h-36 w-36 rounded-full object-cover ring-2 ring-blood/40 md:h-48 md:w-48"
           />

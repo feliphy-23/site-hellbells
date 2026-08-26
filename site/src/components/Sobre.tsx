@@ -38,7 +38,7 @@ export default function Sobre() {
           <div className="absolute -left-3 -top-3 h-10 w-10 border-l-2 border-t-2 border-ember" />
           <div className="absolute -bottom-3 -right-3 h-10 w-10 border-b-2 border-r-2 border-ember" />
           <img
-            src="/images/sobre.jpg"
+            src="./images/sobre.jpg"
             alt="Mesa de doações do Hell Bells: alimentos, roupas e produtos arrecadados no evento"
             className="relative aspect-[4/3] w-full object-cover shadow-[0_30px_80px_rgba(0,0,0,0.6)]"
           />

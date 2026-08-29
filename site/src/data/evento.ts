@@ -17,7 +17,7 @@ export const PROXIMO_EVENTO = {
 
 
 export const NUMEROS = [
-  { valor: "10+", rotulo: "anos de história" },
+  { valor: "desde 2008", rotulo: "quase 20 anos de história" },
   { valor: "20+", rotulo: "instituições apoiadas" },
   { valor: "50+", rotulo: "bandas participaram" },
 ];
